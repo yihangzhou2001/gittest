@@ -14,5 +14,7 @@ public class Main {
         //changed by others
 
         //local changes
+        
+        //changes by another one
     }
 }
